@@ -30,8 +30,8 @@
     font-weight: 600;
     border-radius: 8px;
     padding: 17px 24px;
-    /* color: rgba(13, 19, 33, 1); */
-    border: 1px solid rgba(13, 19, 33, 1)100%;
+    color: grey;
+    border: 1px solid grey;
     background-color: white;
 }
 
@@ -75,4 +75,103 @@
     padding: 21px 24px;
     border-radius: 8px;
     margin-top: 32px;
+}
+
+/* WEB-DEVELOPMENT SECTION */
+
+.web-development{
+    margin: 0 auto;
+    margin-top: 74px;
+    width: 1140px;
+    background-color: rgba(13, 19, 33, 0.02);
+    border-radius: 16px;
+}
+
+.web-dev{
+    padding: 80px 97px;
+}
+
+.web-title{
+    text-align: center;
+    margin-bottom: 48px;
+    padding: 0px 47px;
+}
+
+.web-entitle{
+    font-size: 32px;
+    font-weight: bolder;
+    color: rgba(13, 19, 33, 1);
+}
+
+.web-des{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(13, 19, 33, 1);
+}
+
+.section{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 32px;
+    padding: 48px;
+    border-radius: 16px;
+    background-color: white;
+}
+
+.sub-section{
+    width: 477px;
+}
+
+.code-title{
+    font-size: 24px;
+    font-weight: bold;
+    color: rgba(13, 19, 33, 0.7);
+}
+
+.code-des{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(13, 19, 33, 1)100%;
+}
+
+.code-btn{
+    padding: 12px 20px;
+    font-size: 20px;
+    font-weight: 600;
+    color: gray;
+    border: 0.5px solid grey;
+    border-radius: 8px;
+    background-color: white;
+}
+
+/* INSPIRATION SECTION */
+
+.inspiration{
+    margin: 0px auto;
+    margin-top: 90px;
+    width: 1140px;
+}
+
+.ins-title{
+    text-align: center;
+    padding: 0px 144px 48px;
+}
+
+.ins-entitle{
+    font-size: 32px;
+    font-weight: bolder;
+    color: rgba(13, 19, 33, 1);
+}
+
+.ins-des{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(13, 19, 33, 1);
+}
+
+.ins-vid{
+    margin: 32px;
+    width: 1140px;
+    height: 614px;
+    border-radius: 16px;
 }
