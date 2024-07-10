@@ -275,3 +275,53 @@
 .NodeJS{
    margin-right: 50px;
 }
+
+/* FOOTER SECTION */
+
+.support{
+    margin: 0 auto;
+    margin-bottom: 80px;
+    width: 1140px;
+    height: 315px;
+    background-image: linear-gradient(rgba(7, 1, 1, 0.562)20%,rgba(3, 1, 1, 0.562),rgba(12, 4, 4, 0.555)), url(/assets/Handshake.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 16px;
+}
+
+.support-description{
+    text-align: center;
+    padding: 65px 50px;
+}
+
+.support-title{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.support-des{
+    font-size: 16px;
+    font-weight: 400;
+    color: grey;
+}
+
+.feedback{
+    width: 550px;
+    height: 60px;
+    border-radius: 8px;
+    font-size: 20px;
+    color: grey;
+    padding-left: 20px;
+    border: none;
+}
+
+.submit{
+    width: 120px;
+    height: 60px;
+    border-radius: 8px;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    color: rgba(13, 19, 33, 0.945);
+}
