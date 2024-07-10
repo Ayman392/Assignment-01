@@ -178,7 +178,7 @@
 
 /* CURRENT-TARGET SECTION */
 
-.first-target{
+.target{
     margin: 0px auto;
     margin-top: 151px;
     width: 1140px;
@@ -252,4 +252,26 @@
     font-size: 16px;
     font-weight: bold;
     color: rgba(13, 19, 33, 1);
+}
+
+.second-target{
+    margin-top: 111px;
+}
+
+.card-2{
+    padding: 40px;
+    margin-bottom: 24px;
+    align-items: center;
+    display: flex;
+    border: 1px solid lightgrey;
+    border-radius: 16px;
+    height: 120px;
+}
+
+.card-2-img{
+    margin-right: 100px;
+}
+
+.NodeJS{
+   margin-right: 50px;
 }
